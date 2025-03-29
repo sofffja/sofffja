@@ -1,5 +1,5 @@
 ## hi 🫴
-[![GitHub Streak](https://streak-stats.demolab.com?user=sofffja&theme=catppuccin-frappe&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=sofffja&theme=catppuccin-frappe&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats) -->
 
 <!--
 ![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?fontSize=8&showBorder=false&lineCount=1&theme=catppuccin_frappe&hideTitle=true&line1=react%2Creact%2Ccfc1ff%3Bjavascript%2Cjavascript%2Cf9ff75%3Btypescript%2Ctypescript%2C90cfef%3Bcss3%2Ccss3%2C9ef5ff%3Bhtml5%2Chtml5%2Cf9b6a4%3Btailwindcss%2Ctailwind%2C8dffe0%3Bgit%2Cgit%2Cf99dff%3Bnode.js%2Cnode.js%2Cb8ff9d%3Bnpm%2Cnpm%2Cde8c8c%3B)
